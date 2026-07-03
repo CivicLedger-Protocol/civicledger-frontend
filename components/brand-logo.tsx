@@ -8,3 +8,5 @@ export function BrandLogo({ className }: { className?: string }) {
     </svg>
   );
 }
+
+// improvement 28
